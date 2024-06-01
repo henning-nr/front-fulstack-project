@@ -1,0 +1,30 @@
+{
+  "pets": [
+    {
+      "nome": "gil",
+      "raca": "vira",
+      "sexo": "macho",
+      "id": 1
+    },
+    {
+      "nome": "gil",
+      "raca": "vira",
+      "sexo": "macho",
+      "id": 2
+    }
+  ],
+  "tutors": [
+    {
+      "id": 1,
+      "nome": "Jose",
+      "email": "jose@jose.com",
+      "sexo": "masculino"
+    },
+    {
+      "id": 2,
+      "nome": "Maria",
+      "email": "maria@maria.com",
+      "sexo": "feminino"
+    }
+  ]
+}
